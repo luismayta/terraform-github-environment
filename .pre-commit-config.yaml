@@ -72,7 +72,6 @@ repos:
         args:
           - '--output-file=docs/include/terraform.md'
           - '--output-mode=replace'
-          - '--sort-by=type'
 
       - id: terraform-tflint
         args:
