@@ -31,7 +31,7 @@ vars:
   ORGANIZATION: hadenlabs
   REVIEWERS: luismayta
   PYTHON_VERSION: 3.9.2
-  GIT_IGNORES: python,node,go,zsh,sonar
+  GIT_IGNORES: python,node,go,zsh,sonar,terraform
   README_FILE: README.md
   GIT_IGNORES_CUSTOM: >-
     bin
